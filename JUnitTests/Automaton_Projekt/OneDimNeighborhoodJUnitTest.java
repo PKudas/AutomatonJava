@@ -8,8 +8,9 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- *
  * @author Patryk
+ * @since 05/01/2016
+ * @version 1.0
  */
 public class OneDimNeighborhoodJUnitTest {
     
